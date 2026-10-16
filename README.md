@@ -30,3 +30,25 @@ The `articles/materials/` folder contains **Ores** and **Ingots** sections, each
 ## About the project and team
 
 New public wiki pages are located at `articles/community/project.md`, `articles/community/team.md`, and `articles/community/assistant-knowledge.md`. They provide verified project background and placeholders for team members who approve public attribution. The assistant retrieves these pages as public GitHub documentation, rather than training its model on private messages.
+
+## Team cards
+
+The community Team article at `articles/community/team.md` uses the wiki's reusable `:::team` Markdown component for founders **CharleyQ** and **CallumC**. Each card contains name, pipe-separated roles, joined date, brief biography, optional image and optional public profile link.
+
+Example:
+
+```markdown
+:::team
+name: CharleyQ
+roles: Co-Founder | Mod Developer | Modpack Developer
+joined: 15 October 2026
+bio: Founding member developing the Minecraft mod and related modpacks.
+---
+name: CallumC
+roles: Co-Founder | Mod Developer | Modpack Developer
+joined: 15 October 2026
+bio: Founding member developing the Minecraft mod and related modpacks.
+:::
+```
+
+**Deployment order:** This requires the matching Team profile renderer from [website PR #11](https://github.com/Hamster-Systems/fissile-industries-wikipedia/pull/11). Deploy/merge that website change **before** merging this documentation update, otherwise the Team article will show raw `:::team` text until the renderer is deployed. Portraits are optional and use initials until actual icons are added. Neither GitHub API tokens nor passwords belong in these Markdown files.
