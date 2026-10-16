@@ -1,32 +1,42 @@
 # Fissile Industries Team
 
-This page introduces the people and groups working on Fissile Industries. Individual public profiles will be added after team members confirm how they wish to be credited.
+Meet some of the people involved with Fissile Industries. This page lists public display names; individual responsibilities and profile links can be expanded once confirmed.
 
 ## Project organisation
 
-**Hamster Systems** — organisation responsible for the Fissile Industries project, its repositories and official documentation.
+**Hamster Systems** — the organisation responsible for Fissile Industries, its repositories and the official documentation.
 
 ## Team members
 
-Individual names, roles and profile links are **not yet published**. Please do not infer staff membership from GitHub commits or Discord activity without permission.
+### CharleyQ
 
-When confirmed, each entry can include:
+**Fissile Industries team member**
 
-| Field | Details |
-| --- | --- |
-| Display name | Public display name approved by the member |
-| Role | Their confirmed role on the project |
-| Responsibilities | Mod development, documentation, textures, modelling, testing or community |
-| Profile | Optional public GitHub or other approved link |
-| Status | Current / former |
+CharleyQ is involved in the Fissile Industries project and its development.
+
+- **Display name:** CharleyQ
+- **Project responsibilities:** To be confirmed
+- **Profile image:** Coming later
+
+### CallumC
+
+**Fissile Industries team member**
+
+CallumC is listed as part of the Fissile Industries team. A fuller biography and confirmed responsibilities can be added later.
+
+- **Display name:** CallumC
+- **Project responsibilities:** To be confirmed
+- **Profile image:** Coming later
+
+Additional team members and former contributors can be listed here when their public names and roles are confirmed.
 
 ## Areas of contribution
 
-The project may need contributors across mod development, machine and block modelling, pixel-art item textures, documentation, quality assurance and community support. These categories are not a confirmed staff roster.
+Fissile Industries involves work across gameplay development, machine and block models, item textures, documentation, testing and community support. Individual responsibilities will be attributed as they are confirmed.
 
 ## Join or contribute
 
-You can propose documentation updates using the [documentation repository](https://github.com/Hamster-Systems/Fissile-Industries-Documentation). See [how to contribute to the assistant's knowledge](/wiki/community/assistant-knowledge).
+Documentation improvements can be proposed through the [Fissile Industries Documentation repository](https://github.com/Hamster-Systems/Fissile-Industries-Documentation). You can also read [how to expand the Wiki Assistant's knowledge](/wiki/community/assistant-knowledge).
 
 ## Related pages
 
