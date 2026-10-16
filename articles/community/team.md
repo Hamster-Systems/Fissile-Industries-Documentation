@@ -10,27 +10,18 @@ Meet the people building Fissile Industries, its Minecraft mod and related modpa
 
 ## Founders and developers
 
-### CharleyQ
+:::team
+name: CharleyQ
+roles: Co-Founder | Mod Developer | Modpack Developer
+joined: 15 October 2026
+bio: Founding member of Fissile Industries, working on the Minecraft mod and its related modpacks.
 
-**Co-Founder · Mod Developer · Modpack Developer**
-
-CharleyQ is a founding member of Fissile Industries and helps develop the Minecraft mod and its related modpacks.
-
-- **Display name:** CharleyQ
-- **Roles:** Co-Founder, Mod Developer, Modpack Developer
-- **Joined:** 15 October 2026 (project start)
-- **Profile icon:** Coming later
-
-### CallumC
-
-**Co-Founder · Mod Developer · Modpack Developer**
-
-CallumC is a founding member of Fissile Industries and helps develop the Minecraft mod and its related modpacks.
-
-- **Display name:** CallumC
-- **Roles:** Co-Founder, Mod Developer, Modpack Developer
-- **Joined:** 15 October 2026 (project start)
-- **Profile icon:** Coming later
+---
+name: CallumC
+roles: Co-Founder | Mod Developer | Modpack Developer
+joined: 15 October 2026
+bio: Founding member of Fissile Industries, working on the Minecraft mod and its related modpacks.
+:::
 
 The join date for both founders reflects the start of the Fissile Industries project, using the date its mod repository was created.
 
