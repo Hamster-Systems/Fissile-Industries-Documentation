@@ -43,6 +43,18 @@ Notes: Add verified information
 
 The first card opens normally and has a collapsible **Reactivity** section. The second card is collapsed until a reader opens it. Both are independent.
 
+## Page-wide infobox switch
+
+The website editor offers **Show infoboxes on this page**. Unchecking it hides every infobox on that article while keeping the Markdown safely stored, so you can re-enable all the infoboxes later.
+
+For editors using GitHub directly, the equivalent article-wide setting is:
+
+```markdown
+<!-- fissile-infoboxes: off -->
+```
+
+Place that metadata line near the top of the page to disable all infoboxes on it. Remove it or change it to `on` to turn infobox rendering back on. This setting does not hide the rest of the article and is not displayed to visitors.
+
 ## Infobox settings
 
 | Option | Usage |
