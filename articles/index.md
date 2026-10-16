@@ -7,6 +7,7 @@ This wiki covers installation, gameplay systems, machines, resources and communi
 ## Browse the documentation
 
 - [Getting started](/wiki/getting-started/overview)
+- [Materials & Resources](/wiki/materials/index), including [Ores](/wiki/materials/ores) and [Ingots](/wiki/materials/ingots)
 - [Glossary](/wiki/reference/glossary)
 
 > [!IMPORTANT]
