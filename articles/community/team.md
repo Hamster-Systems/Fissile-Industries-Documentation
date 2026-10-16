@@ -1,32 +1,48 @@
 # Fissile Industries Team
 
-This page introduces the people and groups working on Fissile Industries. Individual public profiles will be added after team members confirm how they wish to be credited.
+Meet the people building Fissile Industries, its Minecraft mod and related modpacks. Team member artwork and additional public profiles can be added later.
 
 ## Project organisation
 
-**Hamster Systems** — organisation responsible for the Fissile Industries project, its repositories and official documentation.
+**Hamster Systems** — the organisation responsible for Fissile Industries, its repositories and official documentation.
 
-## Team members
+**Project started:** 15 October 2026
 
-Individual names, roles and profile links are **not yet published**. Please do not infer staff membership from GitHub commits or Discord activity without permission.
+## Founders and developers
 
-When confirmed, each entry can include:
+### CharleyQ
 
-| Field | Details |
-| --- | --- |
-| Display name | Public display name approved by the member |
-| Role | Their confirmed role on the project |
-| Responsibilities | Mod development, documentation, textures, modelling, testing or community |
-| Profile | Optional public GitHub or other approved link |
-| Status | Current / former |
+**Co-Founder · Mod Developer · Modpack Developer**
+
+CharleyQ is a founding member of Fissile Industries and helps develop the Minecraft mod and its related modpacks.
+
+- **Display name:** CharleyQ
+- **Roles:** Co-Founder, Mod Developer, Modpack Developer
+- **Joined:** 15 October 2026 (project start)
+- **Profile icon:** Coming later
+
+### CallumC
+
+**Co-Founder · Mod Developer · Modpack Developer**
+
+CallumC is a founding member of Fissile Industries and helps develop the Minecraft mod and its related modpacks.
+
+- **Display name:** CallumC
+- **Roles:** Co-Founder, Mod Developer, Modpack Developer
+- **Joined:** 15 October 2026 (project start)
+- **Profile icon:** Coming later
+
+The join date for both founders reflects the start of the Fissile Industries project, using the date its mod repository was created.
 
 ## Areas of contribution
 
-The project may need contributors across mod development, machine and block modelling, pixel-art item textures, documentation, quality assurance and community support. These categories are not a confirmed staff roster.
+The founders work on the Minecraft mod and associated modpacks. The project also involves documentation, modelling, textures, gameplay systems and testing as development continues.
+
+Additional team members and former contributors can be listed when their public names and roles are confirmed.
 
 ## Join or contribute
 
-You can propose documentation updates using the [documentation repository](https://github.com/Hamster-Systems/Fissile-Industries-Documentation). See [how to contribute to the assistant's knowledge](/wiki/community/assistant-knowledge).
+Documentation improvements can be proposed through the [Fissile Industries Documentation repository](https://github.com/Hamster-Systems/Fissile-Industries-Documentation). You can also read [how to expand the Wiki Assistant's knowledge](/wiki/community/assistant-knowledge).
 
 ## Related pages
 
