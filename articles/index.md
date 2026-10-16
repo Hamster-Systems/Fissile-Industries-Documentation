@@ -9,6 +9,9 @@ This wiki covers installation, gameplay systems, machines, resources and communi
 - [Getting started](/wiki/getting-started/overview)
 - [Materials & Resources](/wiki/materials/index), including [Ores](/wiki/materials/ores) and [Ingots](/wiki/materials/ingots)
 - [Glossary](/wiki/reference/glossary)
+- [About Fissile Industries](/wiki/community/project) — project ownership and repositories
+- [Team](/wiki/community/team) — confirmed public team information
+- [Improve the Wiki Assistant knowledge](/wiki/community/assistant-knowledge)
 
 > [!IMPORTANT]
 > Information is updated alongside development. Check the relevant release notes for version-specific details.
