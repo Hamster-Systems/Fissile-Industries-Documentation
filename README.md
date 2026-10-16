@@ -26,3 +26,7 @@ Do not commit credentials or private information. Each page must have a unique l
 The `articles/materials/` folder contains **Ores** and **Ingots** sections, each with eight starter material articles: Uranium, Magnesium, Thorium, Tungsten, Lead, Copper, Titanium and Aluminium. Every page has a placeholder infobox; official item icons and validated gameplay information will be added later.
 
 **Category integration:** The website also needs a `materials` row in its MySQL `wiki_categories` table to show “Materials & Resources” as an editable category with its own category page. A companion website PR seeds this entry using an additive `INSERT IGNORE`. Existing site operators can instead create the category manually in Admin → Wiki categories & pages with slug `materials` (do not create duplicates). Nested `/materials/ores` and `/materials/ingots` article paths appear in the sidebar automatically.
+
+## About the project and team
+
+New public wiki pages are located at `articles/community/project.md`, `articles/community/team.md`, and `articles/community/assistant-knowledge.md`. They provide verified project background and placeholders for team members who approve public attribution. The assistant retrieves these pages as public GitHub documentation, rather than training its model on private messages.
