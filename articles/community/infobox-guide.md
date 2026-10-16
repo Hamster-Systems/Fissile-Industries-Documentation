@@ -1,3 +1,4 @@
+<!-- fissile-infoboxes: off -->
 # Reusable infoboxes
 
 Infoboxes are compact information panels designed for Fissile Industries item, element, material and machine articles.
@@ -50,7 +51,6 @@ The website editor offers **Show infoboxes on this page**. Unchecking it hides e
 For editors using GitHub directly, the equivalent article-wide setting is:
 
 ```markdown
-<!-- fissile-infoboxes: off -->
 ```
 
 Place that metadata line near the top of the page to disable all infoboxes on it. Remove it or change it to `on` to turn infobox rendering back on. This setting does not hide the rest of the article and is not displayed to visitors.
